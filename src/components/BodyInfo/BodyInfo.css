@@ -1,0 +1,21 @@
+.body1 {
+    width: 100vw;
+    height: 100vh;
+    background-color: grey;
+}
+
+
+.body2 {
+    height: 100vh;
+    width: 30%;
+}
+
+.body3 {
+    height: 80vh;
+    width: 15%;
+}
+
+.body4 {
+    height: 80vh;
+    width: 40%;
+}
